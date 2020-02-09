@@ -1,0 +1,137 @@
+#nameh1{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 3.5vw;
+    padding: 2.2vw;
+    padding-bottom: 10px;
+    margin: 0;
+    text-align: center; 
+            
+}
+
+.header-body{
+    background: linear-gradient(90deg, rgba(242, 33, 99, 0.8 ) , rgba(255, 228, 4 ,0.8));
+    
+    overflow: hidden;
+        
+}
+
+.menu-body{
+    background: linear-gradient(90deg, rgba(242, 33, 99, 0.8 ), rgb(255, 0, 38, 0.6));
+}
+
+.content-body{
+    background: linear-gradient(90deg, rgba(255, 0, 38, 0.6),rgba(255, 228, 4, 0.8 ));
+}
+
+.aboutme-body{
+    background: linear-gradient(90deg,rgba(255, 0, 38, 0.6), rgba(255, 228, 4, 0.8));
+}
+
+.project-body{
+    background: linear-gradient(90deg,rgba(255, 0, 3, 0.6 ), rgba(255, 228, 4, 0.8));
+}
+
+.gallery-body{
+    background: linear-gradient(90deg, rgba(255, 0, 38, 0.6), rgba(255, 228, 4, 0.8));
+}
+
+.blog-body{
+    background: linear-gradient(90deg,rgba(255, 0, 3, 0.6 ), rgba(255, 228, 4, 0.8));
+}
+
+#menu{
+    margin-top: 50px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+    font-family: 'Reem Kufi', sans-serif; 
+    /* font-size: 1.8pc; */
+    font-size: 15vw;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 183, 3);
+    /* color: rgb(255, 175, 3 ); */
+    
+}
+
+img {
+    max-width: 100%;
+    height: 400px;
+    float: right;
+    background-size: contain;
+    margin: 50px 100px;
+}
+
+.para{
+    margin: 0 60px;
+    font-size: 1.2pc;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.heading{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+ol{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.social{
+    font-family: 'Reem Kufi', sans-serif;
+    margin-left: 60px;
+         
+}
+
+.sclink{
+    margin: 0;
+    padding: 0;
+    font-size: 1.6pc;
+}
+
+.credit{
+    color: rgb(2, 68, 233 );
+}
+
+.credita:hover{
+    color: rgb(255, 37, 93);
+}
+
+.img-with-text{
+    background: rgb(226, 53, 28 );
+    font-family: 'Reem Kufi', sans-serif;
+    margin: 10px;
+    
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.item{
+    padding: 10px;
+    margin: 10px;
+    
+    background: rgba(1, 155, 245, 0.4);
+    text-align: center;
+    line-height: 20px;
+}
+
